@@ -66,7 +66,7 @@ Follow the below steps to create Database migration tasks.
 
 9. In the **Query Editor,** enter the below query and click on **execute.**
 
-![](.screenshots/52.png)
+![](screenshots/52.png)
 
 10. You will see that your mydb data has been migrated to your Aurora instance.
 
